@@ -1,0 +1,14 @@
+# Packaged LÖVE executables / archives
+*.love
+dist/
+build/
+
+# Save data & caches
+save/
+*.log
+
+# Editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+*.swp
